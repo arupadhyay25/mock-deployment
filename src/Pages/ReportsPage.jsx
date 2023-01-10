@@ -33,7 +33,7 @@ export const ReportsPage = () => {
       settotal(dogsrecord.length);
       setfemale(dogsrecord.filter((e) => e.gender == "Female").length);
       setmale(dogsrecord.filter((e) => e.gender == "Male").length);
-      setavg(getavg / dogsrecord.length);
+      setavg((getavg / dogsrecord.length).toFixed(2));
     }
   });
 
