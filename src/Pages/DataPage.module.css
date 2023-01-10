@@ -1,0 +1,17 @@
+.main {
+  width: 95%;
+  margin: auto;
+  display: flex;
+  /* gap: 50px; */
+}
+.filter {
+  width: 20%;
+}
+.grid {
+  width: 80%;
+  margin: auto;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  justify-content: space-evenly ;
+  gap: 20px;
+}

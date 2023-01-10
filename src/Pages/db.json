@@ -1,0 +1,60 @@
+{
+  "dogs": [
+    {
+      "id": 1,
+      "name": "Cherry",
+      "age": 2,
+      "place": "Visakhapatnam",
+      "gender": "Male"
+    },
+    {
+      "id": 2,
+      "name": "Sheru",
+      "age": 2,
+      "place": "Visakhapatnam",
+      "gender": "Male"
+    },
+    {
+      "id": 2,
+      "name": "Tommy",
+      "age": 3,
+      "place": "Banglore",
+      "gender": "Female"
+    },
+    {
+      "id": 4,
+      "name": "Tommy",
+      "age": 3,
+      "place": "Banglore",
+      "gender": "Female"
+    },
+    {
+      "id": 5,
+      "name": "Sheri",
+      "age": "3",
+      "gender": "Female",
+      "place": "Pune"
+    },
+    {
+      "id": 6,
+      "name": "Loki",
+      "age": "2",
+      "gender": "Male",
+      "place": "Delhi"
+    },
+    {
+      "id": 7,
+      "name": "Sherni",
+      "age": "3",
+      "gender": "Female",
+      "place": "Pune"
+    },
+    {
+      "id": 8,
+      "name": "Leo",
+      "age": "2",
+      "gender": "Male",
+      "place": "Delhi"
+    }
+  ]
+}
