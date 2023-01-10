@@ -32,6 +32,7 @@ export const UsersPage = () => {
     setname("");
     setage("");
     setplace("");
+    alert("Registed Succesfully !!!")
   };
 
   return (
